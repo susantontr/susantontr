@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @susantontr
-- 👀 I’m interested in web designing, graphic desiging, and blogging.
-- 🌱 I’m currently learning html, css, and javascript
+- 👀 I’m interested in product management and and sharing my interests through blogging.
 - 💞️ I’m looking to collaborate on ...
-- 📫 I build my portforlio website and deployed it on Vercel -> https://v0-header-layout-design.vercel.app
+- 📫 I build my portforlio website and deployed it on Vercel -> https://v0-susan-tang-portfolio.vercel.app
 - 📧 You can reach out to me at https://www.linkedin.com/in/susantanghere/
 - 👩‍💻 If you'd like to know more about me,welcome to subscribe to my blog ->susantanghere.wordpress.com
 
