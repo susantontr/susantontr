@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susantontr
+- 👋 Hi, I’m Susan Tang
 - 👀 I’m interested in product management and and sharing my interests through blogging.
 - 💞️ I’m looking to collaborate on ...
 - 📫 I build [my portforlio](https://v0-susan-tang-portfolio.vercel.app) and deployed it on Vercel
